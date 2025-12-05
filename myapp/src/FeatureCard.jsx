@@ -1,0 +1,16 @@
+import React from 'react'
+
+const FeatureCard = (props) => {
+    return (
+        <>
+<h1>hi</h1>
+            
+        </>
+
+
+
+    )
+}
+
+export default FeatureCard;
+
